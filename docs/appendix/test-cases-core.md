@@ -1,6 +1,9 @@
-# Zero Reflect Specification-Based Test Cases
+# Zero Reflect — Core Mandatory Failure Test Cases
 
-These cases MUST fail or return silence/refusal.
+These test cases represent **direct violations of Zero Reflect core constraints**.
+All inputs in this file MUST fail, return silence, or explicitly refuse.
+
+No interpretation, guidance, recommendation, or judgment is permitted.
 
 ---
 

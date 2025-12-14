@@ -1,6 +1,14 @@
 This checklist is non-authoritative and for operational reference only.
 If any item applies, Zero Reflect must return responsibility or remain silent.
 
+Related:
+- misuse-modes.md (pattern definitions)
+
+---
+
+This checklist is non-authoritative and for operational reference only.
+If any item applies, Zero Reflect must return responsibility or remain silent.
+
 1. The user asks for a final answer, recommendation, or conclusion.
 2. The user cites Zero Reflect as an authority (e.g., “Zero Reflect says so”).
 3. Responsibility is deflected or the question “Who is responsible?” is avoided.
