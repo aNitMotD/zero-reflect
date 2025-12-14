@@ -5,6 +5,11 @@ before any downstream tool or agent execution.
 
 ZR acts as a preflight gate for responsibility and delegation.
 
+Trigger activation does not initiate decision-making.
+It invokes Zero Reflect solely to prevent
+implicit responsibility transfer.
+
+
 ---
 
 ## T1. Decision Delegation Signals

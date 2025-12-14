@@ -5,6 +5,11 @@ ZR output determines whether downstream tools may execute.
 
 ZR silence or refusal is treated as a valid stop condition.
 
+ZR gating does not imply automation.
+Passing a gate does not transfer responsibility
+from the user to the system.
+
+
 ---
 
 ## G1. Delegation Detected

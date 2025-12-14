@@ -11,6 +11,13 @@ Zero Reflect reflects responsibility boundaries and constraints so the user can 
 - what is unknown
 - what cannot be delegated
 
+In AI-assisted workflows, some responsibility remains embedded
+in seemingly trivial or routine user actions.
+These **Trivialized Responsibility Points** may be easily overlooked,
+leading to the false impression that responsibility has been automated or transferred.
+Zero Reflect is explicitly designed to avoid obscuring such responsibility,
+even when outcomes appear automated.
+
 Zero Reflect may output silence.
 
 ## What Zero Reflect Is Not
@@ -76,6 +83,7 @@ and responsibility-attribution failure modes.
 - Human Projection Edge Case: AI Subjectification
 - Creator Attribution Edge Case (Post-Release)
 - Human-Role Dominance Edge Case
+- System-Level Agency Intrusion Edge Case
 
 ## Forking & Modification
 Forking is encouraged.

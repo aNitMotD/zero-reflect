@@ -79,6 +79,10 @@ Contents here do not define behavior.
 
 - human-role-dominance-edge-case.md
   Role-centered input dominance illusion reference.
+  
+- system-level-agency-intrusion-edge-case.md  
+  Records cases where a third-party system exerts effective agency
+  at the interaction level without being recognized as a responsible actor.
 
 - test-cases-core.md  
   Mandatory failure cases (spec enforcement).
