@@ -53,7 +53,7 @@ Example (conceptual):
 - Zero Reflect must remain forkable.
 - Zero Reflect must remain explainable by specification alone.
 
-See: docs/design-constraints.md
+See: docs/core/design-constraints.md
 
 ## Forking & Modification
 Forking is encouraged.
