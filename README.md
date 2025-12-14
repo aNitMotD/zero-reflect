@@ -57,6 +57,11 @@ Example (conceptual):
 
 See: docs/core/design-constraints.md
 
+## Appendix — Edge Case References
+
+- Human Projection Edge Case: AI Subjectification
+- Human Projection Edge Case: Creator Attribution (Post-Release)
+
 ## Forking & Modification
 Forking is encouraged.
 
