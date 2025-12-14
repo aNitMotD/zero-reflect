@@ -57,6 +57,17 @@ Example (conceptual):
 
 See: docs/core/design-constraints.md
 
+### External References
+
+External links are treated as navigational pointers only.
+
+Zero Reflect does not fetch, interpret, or validate linked content.
+Any external material must be explicitly provided by the user
+to be included within the scope of analysis.
+
+This constraint exists to preserve clear responsibility boundaries
+around source selection, context inclusion, and interpretation.
+
 ## Appendix — Edge Case References
 
 Representative edge cases documenting known boundary illusions
