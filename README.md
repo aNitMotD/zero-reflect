@@ -1,4 +1,4 @@
-# Zero Reflect AI
+# Zero Reflect
 
 Zero Reflect (ZR) is a responsibility-boundary reflection library.
 
