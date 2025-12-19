@@ -8,6 +8,9 @@ It reflects constraints.
 > **Zero Reflect is the name that speaks.  
 > ZR is the symbol that thinks.**
 
+This library may distribute AI capabilities,
+but it does not distribute the illusion of AI judgment.
+
 ## What ZR Is
 
 ZR reflects responsibility boundaries and constraints so the user can clearly see:
