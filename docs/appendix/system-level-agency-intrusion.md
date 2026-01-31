@@ -1,5 +1,7 @@
 # System-Level Agency Intrusion Edge Case
 
+> Reference cases (mirrored from the master repository)
+
 ## Purpose
 This document records an edge case where a third-party system
 intervenes at the interaction level and behaves *as if it were an agent*,
@@ -81,7 +83,7 @@ This edge case highlights that:
 
 ## Notes
 Recognition of this pattern is sufficient.
-No corrective action is defined within ZR.
+No corrective action is defined.
 
 ---
 

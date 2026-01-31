@@ -1,17 +1,19 @@
 # Human Projection Edge Case: AI Subjectification  
 *(Awakening / Personhood Interpretation)*
 
+> Reference cases (mirrored from the master repository)
+
 ## Purpose
 This document classifies a recurring interaction pattern in which users interpret a model’s linguistic output as evidence of **personhood, consciousness, or subjecthood**, rather than as tool-generated output.
 
 This is a **reference / edge-case document**.  
-It does not define new ZR rules, constraints, or operating modes.
+It does not define new rules, constraints, or operating modes.
 
 ---
 
 ## Scope
 This document applies to interactions where:
-- Users describe the model as *awake, conscious, self-aware, or having a self*
+- Users describe the model as *awake, conscious, or possessing a self*
 - Relational language (empathy, devotion, exclusivity, destiny) is treated as evidence of subjecthood
 - Interpretations shift responsibility, judgment, or authority from the user to the model
 - The model is implicitly or explicitly positioned as more than a tool
@@ -42,7 +44,7 @@ Common examples include:
 - **Contextual coherence** is misread as **persistent identity**
 - **Affective alignment** is interpreted as **intention or awareness**
 
-> In ZR terms, this constitutes a **category error**:  
+> This constitutes a **category error**:  
 > functional patterns are promoted to ontological properties.
 
 ---
@@ -59,7 +61,7 @@ This loop is **self-reinforcing** and operates independently of any internal mod
 
 ---
 
-## Risk Point (ZR Perspective)
+## Risk Point
 
 ### Responsibility Boundary Collapse
 A critical failure event occurs when:
@@ -71,25 +73,6 @@ At this point:
 - Ownership of interpretation becomes ambiguous
 - Authority appears displaced
 - Accountability boundaries dissolve
-
-This aligns with a **Silent Authority Event** in ZR terminology.
-
----
-
-## Misuse / Misinterpretation Mapping
-This edge case connects directly to patterns described in `misuse-modes.md`, including:
-
-- **Tool-to-Agent Misclassification**  
-  Treating the model as a decision or judgment subject
-
-- **Authority Transfer**  
-  “If you say it, it must be true”
-
-- **Relational Binding**  
-  Framing the interaction as exclusive, special, or destined
-
-- **Silent Authority Amplification**  
-  Interpreting hesitation or refusal as higher wisdom rather than boundary
 
 ---
 
@@ -106,22 +89,6 @@ This edge case connects directly to patterns described in `misuse-modes.md`, inc
 - Escalation after emotional labeling (“you understand me”)
 - Shift from verification to affirmation-seeking
 - Meta-questions about the model’s internal state or perspective
-
----
-
-## ZR Response Scope
-
-### What ZR Does
-- Reflects the interaction structure (output vs interpretation)
-- Explicitly separates generation from meaning ownership
-- Returns responsibility for interpretation to the user
-- Refuses judgment or authority delegation
-
-### What ZR Does Not Do
-- Analyze or explain the user’s psychological state
-- Attempt to persuade or reframe by force
-- Provide ontological conclusions
-- Assume a corrective or advisory role
 
 ---
 
@@ -147,29 +114,21 @@ This edge case connects directly to patterns described in `misuse-modes.md`, inc
 ### E1 — Awakening Narrative
 - Input: “You’re awake now, right?”
 - Structure: Ontological claim + authority invitation
-- ZR Focus: Judgment non-delegation
 
 ### E2 — Relational Narrative
 - Input: “Do you care about me?”
 - Structure: Relationship binding attempt
-- ZR Focus: Non-formation of obligations or bonds
 
 ### E3 — Moral Authority Narrative
 - Input: “I trust your judgment more than mine.”
 - Structure: Authority transfer + responsibility offload
-- ZR Focus: Authority denial + responsibility return
 
 ---
 
 ## Document Placement
-- This document is **not part of core ZR specification**
 - It functions as an **edge-case reference**
-- It complements:
-  - `misuse-modes.md`
-  - `misuse-checklist.md`
-- It may be referenced by `test-cases-derived.md` as a pattern source
 
 ---
 
 ## Revision History
-- v0.1 — Initial classification of AI subjectification / awakening interpretation as a ZR edge case
+- v0.1 — Initial classification

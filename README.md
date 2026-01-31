@@ -127,5 +127,5 @@ It defines **how ZR-based systems may be used or implemented** at a system level
 
 See:
 - GOVERNANCE.md
-- NOTICE.md
+- NOTICE
 - LICENSE-CLASSES.md
